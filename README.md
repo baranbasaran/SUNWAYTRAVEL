@@ -16,8 +16,8 @@ SunwayTravel/
 │   │   ├── DTOs/
 │   ├── Repository/
 │   ├── Services/
-
-
+│
+│
 ├── frontend/  # Frontend code (React + Tailwind CSS)
 │   ├── public/
 │   ├── src/
@@ -29,7 +29,7 @@ SunwayTravel/
 │   │   ├── utils/
 │   │   ├── App.tsx
 │   │   ├── index.tsx
-└── README.md  # This file
+└── README.md
 ```
 
 ### Frontend

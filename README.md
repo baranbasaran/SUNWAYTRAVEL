@@ -7,26 +7,30 @@ SunwayTravel is a full-stack application that provides hotel information and boo
 ```
 SunwayTravel/
 │
-├── frontend/     # Frontend code (React + Tailwind CSS)
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── README.md
-│
-├── backend/      # Backend code (ASP.NET Core)
+├── backend/  # Backend code (ASP.NET Core)
 │   ├── Controllers/
+│   ├── Data/
+│   ├── Exceptions/
+│   ├── Middleware/
 │   ├── Models/
-│   ├── Services/
+│   │   ├── DTOs/
 │   ├── Repository/
-│   ├── appsettings.json
-│   └── Program.cs
-│
-└── README.md
+│   ├── Services/
+
+
+├── frontend/  # Frontend code (React + Tailwind CSS)
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── styles/
+│   │   ├── types/
+│   │   ├── utils/
+│   │   ├── App.tsx
+│   │   ├── index.tsx
+└── README.md  # This file
 ```
-
----
-
-## Features
 
 ### Frontend
 

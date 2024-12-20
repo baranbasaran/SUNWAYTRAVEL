@@ -13,7 +13,7 @@ const HotelDetailPage: React.FC = () => {
   useEffect(() => {
     const fetchHotel = async () => {
       try {
-        const fetchedHotel = await getHotelById(id!); // API handles validation
+        const fetchedHotel = await getHotelById(id!);
         setHotel(fetchedHotel);
       } catch (err) {
         console.error(err);

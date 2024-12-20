@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "name": "Seaside Paradise",
+        "location": "Maldives",
+        "rating": 4.9,
+        "imageUrl": "https://i0.wp.com/seasonparadise.mv/wp-content/uploads/2019/12/cropped-POOL.jpg?fit=1200%2C801&ssl=1",
+        "datesOfTravel": [ "2024-01-01", "2024-01-07" ],
+        "boardBasis": "All Inclusive",
+        "price": 300,
+        "rooms": [
+            {
+                "roomType": "Deluxe Suite",
+                "amount": 5
+            },
+            {
+                "roomType": "Family Room",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mountain Retreat",
+        "location": "Swiss Alps",
+        "rating": 4.7,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1FxxDkKIVf2gc2Kk7ohuvN6uEASr_4pz5CyiBdbblK4Wd54t1GfYFHuRUPDrWBsAj1Q&usqp=CAU",
+        "datesOfTravel": [ "2024-02-15", "2024-02-22" ],
+        "boardBasis": "Bed & Breakfast",
+        "price": 250,
+        "rooms": [
+            {
+                "roomType": "Standard Room",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Urban Oasis",
+        "location": "New York City, USA",
+        "rating": 4.5,
+        "imageUrl": "https://www.stefanoboeriarchitetti.net/wp-content/uploads/2024/06/02-scaled.jpg",
+        "datesOfTravel": [ "2024-03-10", "2024-03-17" ],
+        "boardBasis": "Room Only",
+        "price": 400,
+        "rooms": [
+            {
+                "roomType": "Luxury Suite",
+                "amount": 2
+            },
+            {
+                "roomType": "Standard Room",
+                "amount": 20
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Desert Dream",
+        "location": "Dubai, UAE",
+        "rating": 4.8,
+        "imageUrl": "https://static.showit.co/1200/tvJkA07xRjWgG1KDuKKYaw/185918/034_camel_uschi_dubai_photo_mike_meyer.jpg",
+        "datesOfTravel": [ "2024-04-01", "2024-04-10" ],
+        "boardBasis": "Half Board",
+        "price": 350,
+        "rooms": [
+            {
+                "roomType": "Luxury Villa",
+                "amount": 10
+            },
+            {
+                "roomType": "Family Room",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Tropical Escape",
+        "location": "Bali, Indonesia",
+        "rating": 4.6,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP22sOMfEi2D82aj0lv7llJtkoYeDhL-aespGHw3Qv7f9uUfbjoIdMKx8SYR4a6IF2tKY&usqp=CAU",
+        "datesOfTravel": [ "2024-05-01", "2024-05-10" ],
+        "boardBasis": "All Inclusive",
+        "price": 320,
+        "rooms": [
+            {
+                "roomType": "Beach Villa",
+                "amount": 8
+            },
+            {
+                "roomType": "Garden Room",
+                "amount": 12
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Historic Haven",
+        "location": "Rome, Italy",
+        "rating": 4.4,
+        "imageUrl": "https://cdn.getyourguide.com/img/tour/f9964a688f184da5.jpeg/98.jpg",
+        "datesOfTravel": [ "2024-06-01", "2024-06-07" ],
+        "boardBasis": "Breakfast Included",
+        "price": 200,
+        "rooms": [
+            {
+                "roomType": "Classic Room",
+                "amount": 15
+            },
+            {
+                "roomType": "Luxury Suite",
+                "amount": 5
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Safari Lodge",
+        "location": "Serengeti, Tanzania",
+        "rating": 4.9,
+        "imageUrl": "https://www.chaloafrica.com/wp-content/uploads/2018/02/Serengeti-Serena-Safari-Lodge-View-1-770x250.jpg",
+        "datesOfTravel": [ "2024-07-10", "2024-07-20" ],
+        "boardBasis": "Full Board",
+        "price": 380,
+        "rooms": [
+            {
+                "roomType": "Luxury Tent",
+                "amount": 10
+            },
+            {
+                "roomType": "Family Suite",
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Ocean Breeze",
+        "location": "Gold Coast, Australia",
+        "rating": 4.3,
+        "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/93/62/38/bbq.jpg?w=700&h=-1&s=1",
+        "datesOfTravel": [ "2024-08-01", "2024-08-10" ],
+        "boardBasis": "Self Catering",
+        "price": 220,
+        "rooms": [
+            {
+                "roomType": "Ocean View Suite",
+                "amount": 6
+            },
+            {
+                "roomType": "Family Room",
+                "amount": 8
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Rainforest Retreat",
+        "location": "Costa Rica",
+        "rating": 4.7,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStla8836KCtmF8Swv2YkTg_1rqKHzilkhXaHLSMe7_uW_Lx7lyjYzMcc3y3gHJ-3JJA5o&usqp=CAU",
+        "datesOfTravel": [ "2024-09-01", "2024-09-15" ],
+        "boardBasis": "All Inclusive",
+        "price": 300,
+        "rooms": [
+            {
+                "roomType": "Jungle Bungalow",
+                "amount": 7
+            },
+            {
+                "roomType": "Standard Room",
+                "amount": 10
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Island Bliss",
+        "location": "Hawaii, USA",
+        "rating": 4.8,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCG433dhC6CnhtyxJvQvT5QjzcONuGaTDu7DCDet0V468o5ft1ysLChvEILXknevy9HDA&usqp=CAU",
+        "datesOfTravel": [ "2024-10-01", "2024-10-10" ],
+        "boardBasis": "Full Board",
+        "price": 400,
+        "rooms": [
+            {
+                "roomType": "Beachfront Suite",
+                "amount": 12
+            },
+            {
+                "roomType": "Standard Room",
+                "amount": 15
+            }
+        ]
+    }
+]
